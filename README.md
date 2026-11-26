@@ -1,23 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=210&section=header&text=Hai%20Nguyen&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Senior%20Fullstack%20%26%20AI%20Systems%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Hai Nguyen banner" />
+  <img src="./assets/header.svg" width="100%" alt="Hai Nguyen — Senior Fullstack & AI Systems Engineer" />
 </div>
 
 <div align="center">
-  <a href="https://haringuyen.site">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Clean+Architecture+%26+Microservices;AI-Native+SDLC+%26+MCP+Context+Tooling;.NET+%7C+NestJS+%7C+Spring+Boot+%7C+FastAPI+%7C+React;Kafka+%E2%80%A2+RabbitMQ+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Linux" alt="Typing SVG" />
-  </a>
+  <a href="https://haringuyen.site"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Clean+Architecture+%26+Microservices;AI-Native+SDLC+%26+MCP+Context+Tooling;.NET+%7C+NestJS+%7C+Spring+Boot+%7C+FastAPI+%7C+React;Kafka+%E2%80%A2+RabbitMQ+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Linux" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  <a href="https://haringuyen.site">
-    <img src="https://img.shields.io/badge/Portfolio-haringuyen.site-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/haringuyendev?tab=followers">
-    <img src="https://img.shields.io/github/followers/haringuyendev?style=for-the-badge&color=3B82F6&labelColor=0F172A&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/haringuyendev?tab=repositories">
-    <img src="https://img.shields.io/github/stars/haringuyendev?affiliations=OWNER&style=for-the-badge&color=6366F1&labelColor=0F172A&logo=github" alt="GitHub Stars" />
-  </a>
+  <a href="https://haringuyen.site"><img src="https://img.shields.io/badge/Portfolio-haringuyen.site-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/haringuyendev?tab=followers"><img src="https://img.shields.io/github/followers/haringuyendev?style=for-the-badge&color=3B82F6&labelColor=0F172A&logo=github" alt="GitHub Followers" /></a>
+  <a href="https://github.com/haringuyendev?tab=repositories"><img src="https://img.shields.io/github/stars/haringuyendev?affiliations=OWNER&style=for-the-badge&color=6366F1&labelColor=0F172A&logo=github" alt="GitHub Stars" /></a>
 </p>
 
 ---
@@ -36,12 +28,8 @@ I design scalable enterprise backends with **Clean Architecture** and **Microser
 ### Featured Open-Source Projects
 
 <div align="center">
-  <a href="https://github.com/haringuyendev/ai-native-sdlc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haringuyendev&repo=ai-native-sdlc&theme=tokyonight&border_color=38BDF8&bg_color=0D1117" alt="ai-native-sdlc" />
-  </a>
-  <a href="https://github.com/haringuyendev/aura-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haringuyendev&repo=aura-ui&theme=tokyonight&border_color=38BDF8&bg_color=0D1117" alt="aura-ui" />
-  </a>
+  <a href="https://github.com/haringuyendev/ai-native-sdlc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haringuyendev&repo=ai-native-sdlc&theme=tokyonight&border_color=38BDF8&bg_color=0D1117" alt="ai-native-sdlc" /></a>
+  <a href="https://github.com/haringuyendev/aura-ui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haringuyendev&repo=aura-ui&theme=tokyonight&border_color=38BDF8&bg_color=0D1117" alt="aura-ui" /></a>
 </div>
 
 ---
@@ -103,5 +91,5 @@ I design scalable enterprise backends with **Clean Architecture** and **Microser
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=110&section=footer" width="100%" alt="Footer wave" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer wave" />
 </div>
